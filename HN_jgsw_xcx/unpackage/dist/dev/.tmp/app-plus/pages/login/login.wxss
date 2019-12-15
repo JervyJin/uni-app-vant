@@ -1,0 +1,22 @@
+
+.content {
+	background: #fff;
+}
+.form_wrap {
+	border-bottom: solid 1rpx #f5f5f5;
+	padding: 20rpx 0;
+}
+.form_wrap image {
+	width: 40rpx;
+	height: 40rpx;
+	margin-right: 30rpx;
+}
+.form_wrap input {
+	font-size: 36rpx;
+}
+.wjpwd navigator {
+	color: #888;
+	margin: 20rpx 0 60rpx;
+	font-size: 32rpx;
+}
+

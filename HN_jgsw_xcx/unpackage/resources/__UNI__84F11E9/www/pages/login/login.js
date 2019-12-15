@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { background: #fff; }\n.",[1],"form_wrap { border-bottom: solid ",[0,1]," #f5f5f5; padding: ",[0,20]," 0; }\n.",[1],"form_wrap wx-image { width: ",[0,40],"; height: ",[0,40],"; margin-right: ",[0,30],"; }\n.",[1],"form_wrap wx-input { font-size: ",[0,36],"; }\n.",[1],"wjpwd wx-navigator { color: #888; margin: ",[0,20]," 0 ",[0,60],"; font-size: ",[0,32],"; }\n",],undefined,{path:"./pages/login/login.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/login.wxml') } }));

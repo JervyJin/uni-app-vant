@@ -1,0 +1,2 @@
+setCssToHead(["wx-input { border-bottom: solid ",[0,1]," #F5F5F5; padding: 0 0 ",[0,5]," ",[0,20],"; }\n",],undefined,{path:"./pages/tab_wd/revise_personal.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/revise_personal.wxml') } }));

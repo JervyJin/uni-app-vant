@@ -1,0 +1,17 @@
+
+.option {
+	white-space: nowrap;
+}
+.option view {
+	font-size: 26rpx;
+	width: 220rpx;
+	text-align: center;
+	line-height: 70rpx;
+	font-weight: 550;
+	display: inline-block;
+}
+.option_active {
+	color: #F1152C;
+	border-bottom: solid 5rpx #F1152C;
+}
+

@@ -1,0 +1,2 @@
+<view class="container_wrap"><view style="width:80%;margin:5% auto;text-align:center;font-size:30rpx;color:#666;"><view style="line-height:40rpx;">打开党建APP，选择会议签到，扫描下面的二维码进行签到</view><image style="margin:120rpx 0;width:350rpx;height:350rpx;" src="../../static/qr_code.png" mode></image><view style="font-size:28rpx;line-height:50rpx;text-align:left;">会议管理主要流程：申请会议 -> 提交参与人员名单 -> 后台管理员审核 -> 生成通知 ->
+			扫描二维码签到</view><view style="margin:80rpx auto;color:#fff;width:255rpx;line-height:100rpx;border-radius:6rpx;text-align:center;background:#F1152C;">申请会议</view></view></view>

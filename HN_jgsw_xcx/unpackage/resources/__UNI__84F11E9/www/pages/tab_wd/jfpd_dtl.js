@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"btm_btn { width: 90%; margin: 0 auto; }\n.",[1],"btm_btn wx-view { width: 48%; text-align: center; line-height: ",[0,70],"; color: #fff; -webkit-border-radius: ",[0,10],"; border-radius: ",[0,10],"; }\n.",[1],"start { color: #F1152C; margin-right: ",[0,10],"; }\nwx-input { border-bottom: solid ",[0,1]," #F5F5F5; }\n",],undefined,{path:"./pages/tab_wd/jfpd_dtl.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/jfpd_dtl.wxml') } }));

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "组织架构",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "mix-tree": "/components/mix-tree/mix-tree"
+  }
+}

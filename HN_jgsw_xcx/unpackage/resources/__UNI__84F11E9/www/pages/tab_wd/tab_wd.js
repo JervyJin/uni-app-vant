@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"img_wrap { width: 33%; font-size: ",[0,24],"; text-align: center; margin-bottom: ",[0,40],"; }\n.",[1],"img_wrap wx-image { margin-bottom: ",[0,15],"; width: ",[0,70],"; height: ",[0,70],"; }\n",],undefined,{path:"./pages/tab_wd/tab_wd.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/tab_wd.wxml') } }));

@@ -1,0 +1,32 @@
+
+.option_1 {
+	padding-top: 20rpx;
+}
+.option_1 view {
+	text-align: center;
+	padding-bottom: 20rpx;
+	font-weight: 550;
+	width: 30%;
+}
+.option_active {
+	color: #F1152C !important;
+	border-bottom: solid 5rpx #F1152C !important;
+}
+.option_2 {
+	margin-top: 20rpx;
+}
+.option_2 view {
+	width: 80%;
+	margin: 0 auto;
+	color: #F1152C;
+	border-radius: 10rpx;
+	width: 50%;
+	text-align: center;
+	padding: 10rpx;
+	margin: 0 20rpx;
+}
+.skd_active {
+	background: #F1152C;
+	color: #fff !important;
+}
+

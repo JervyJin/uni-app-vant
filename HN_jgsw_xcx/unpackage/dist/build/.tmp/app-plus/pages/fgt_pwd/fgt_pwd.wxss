@@ -1,0 +1,22 @@
+
+.inp_wrap {
+	padding: 40rpx 30rpx;
+	border-bottom: solid 1rpx #F5F5F5;
+}
+.inp_wrap text {
+	width: 200rpx;
+	font-size: 32rpx;
+}
+.inp_wrap input {
+	font-size: 32rpx;
+}
+.yzm {
+	width: 250rpx;
+	line-height: 50rpx;
+	text-align: center;
+	background: #db0f2a;
+	color: #fff;
+	padding: 8rpx;
+	border-radius: 6px;
+}
+

@@ -1,0 +1,29 @@
+
+.img_wrap {
+	position: relative;
+	width: 33%;
+	text-align: center;
+	font-size: 28rpx;
+	padding: 30rpx 0;
+	border-left: 1rpx solid #eee;
+	border-bottom: 1rpx solid #eee;
+}
+.img_wrap image {
+	width: 140rpx;
+	height: 140rpx;
+	margin-bottom: 5rpx;
+}
+.redDot {
+	position: absolute;
+	right: 46rpx;
+	top: 18rpx;
+	width: 40rpx;
+	height: 40rpx;
+	background-color: rgb(241, 21, 44);
+	border-radius: 50%;
+	color: #fff;
+	font-size: 24rpx;
+	line-height: 40rpx;
+}
+
+

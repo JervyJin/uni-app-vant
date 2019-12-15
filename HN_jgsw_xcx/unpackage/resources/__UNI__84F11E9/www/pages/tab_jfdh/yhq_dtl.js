@@ -1,0 +1,2 @@
+setCssToHead(["wx-text { color: #999; }\n.",[1],"btn_wrap { width: 33%; text-align: center; border: solid ",[0,1]," #F5F5F5; line-height: ",[0,98],"; }\n",],undefined,{path:"./pages/tab_jfdh/yhq_dtl.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_jfdh/yhq_dtl.wxml') } }));

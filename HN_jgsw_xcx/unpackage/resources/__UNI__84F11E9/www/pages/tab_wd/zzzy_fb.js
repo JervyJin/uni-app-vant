@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title { font-size: ",[0,28],"; font-weight: bold; margin-right: ",[0,30],"; }\n.",[1],"start { color: #F1152C; margin-right: ",[0,10],"; }\n",],undefined,{path:"./pages/tab_wd/zzzy_fb.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/zzzy_fb.wxml') } }));

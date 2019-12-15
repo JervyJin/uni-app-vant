@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"start { color: #F1152C; margin-right: ",[0,10],"; }\n",],undefined,{path:"./pages/tab_wd/jfsb_add.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/jfsb_add.wxml') } }));

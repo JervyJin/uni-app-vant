@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "党工委概况",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

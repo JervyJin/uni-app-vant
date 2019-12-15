@@ -1,0 +1,22 @@
+
+.inp_wrap {
+	font-size: 30rpx;
+	padding: 18rpx 30rpx;
+}
+.inp_wrap .inp_wr {
+	width: 76%;
+	background: #F5F5F5;
+	border: solid 1rpx #ccc;
+}
+.inp_wrap .inp_wr input {
+	height: 70rpx;
+	padding-left: 20rpx;
+}
+.pk_wrap {
+	background: #F5F5F5;
+	border: solid 1rpx #ccc;
+	width: 76%;
+	line-height: 70rpx;
+	text-indent: 1em;
+}
+

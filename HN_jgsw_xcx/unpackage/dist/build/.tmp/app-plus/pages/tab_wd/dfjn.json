@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "党费缴纳",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "记录",
+        "fontSize": "14"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

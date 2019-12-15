@@ -1,0 +1,28 @@
+
+.index_wrap {
+	padding: 0 16rpx;
+	text-align: center;
+	color: #fff;
+	margin-right: 20rpx;
+	border-radius: 50%;
+}
+.img_wrap image {
+	width: 50rpx;
+	height: 50rpx;
+	margin-right: 20rpx;
+}
+.option {
+	padding: 20rpx;
+}
+.option view {
+	font-size: 26rpx;
+	width: 50%;
+	text-align: center;
+	line-height: 60rpx;
+	font-weight: 550;
+}
+.option_active {
+	color: #F1152C;
+	border-bottom: solid 5rpx #F1152C;
+}
+

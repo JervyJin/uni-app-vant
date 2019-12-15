@@ -1,0 +1,6 @@
+
+input {
+	border-bottom: solid 1rpx #F5F5F5;
+	text-align: center;
+}
+

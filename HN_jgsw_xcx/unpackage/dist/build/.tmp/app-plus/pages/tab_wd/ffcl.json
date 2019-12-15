@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "反腐倡廉",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "发布",
+        "fontSize": "16"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

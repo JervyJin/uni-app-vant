@@ -1,0 +1,6 @@
+
+.container_wrap navigator {
+	border-bottom: solid 1rpx #f5f5f5;
+	margin-bottom: 20rpx;
+}
+

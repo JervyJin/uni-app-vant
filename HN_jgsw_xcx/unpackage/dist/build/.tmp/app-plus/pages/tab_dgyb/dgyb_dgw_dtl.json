@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "党管月报详情",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

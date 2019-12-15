@@ -1,0 +1,10 @@
+
+input {
+	width: 100%;
+	padding: 0 0 5rpx 15rpx;
+	border-bottom: solid 1rpx #ccc;
+}
+textarea {
+	font-size: 26rpx;
+}
+

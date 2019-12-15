@@ -1,0 +1,16 @@
+
+.option {
+	padding: 20rpx;
+}
+.option view {
+	font-size: 26rpx;
+	width: 30%;
+	text-align: center;
+	padding-bottom: 20rpx;
+	font-weight: 550;
+}
+.option_active {
+	color: #F1152C;
+	border-bottom: solid 5rpx #F1152C;
+}
+

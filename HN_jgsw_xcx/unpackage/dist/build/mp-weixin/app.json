@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/home_page/home_page",
+    "pages/question/question",
+    "pages/my/my",
+    "pages/liuyan/liuyan",
+    "pages/jianyi/jianyi",
+    "pages/toushu/toushu",
+    "pages/searchResult/searchResult",
+    "pages/hotSearch/hotSearch"
+  ],
+  "subPackages": [],
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#FFC63E",
+    "borderStyle": "white",
+    "backgroundColor": "#175497",
+    "list": [
+      {
+        "pagePath": "pages/home_page/home_page",
+        "iconPath": "static/sy1@2x.png",
+        "selectedIconPath": "static/sy@2x.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/grzx@2x.png",
+        "selectedIconPath": "static/grzx1@2x.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}

@@ -1,0 +1,118 @@
+{
+	"pages": [
+		{
+			"path": "pages/home_page/home_page",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#2671AB",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": false
+				// "app-plus": {
+				// 	"bounce": "none",
+				// 	"titleNView": {
+				// 		"buttons": [{
+				// 			"text": "扫码签到",
+				// 			"fontSize": "15"
+				// 		}]
+				// 	}
+				// }
+			}
+		},
+		{
+			"path": "pages/question/question",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": true
+		
+			}
+		},
+		
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#175497",
+				"navigationBarTextStyle": "white",
+				"enablePullDownRefresh": true,
+				"usingComponents": {
+					"van-button": "/wxcomponents/vant/dist/button/index"
+				}
+		
+			}
+		},
+		{
+			"path": "pages/liuyan/liuyan",
+			"style": {
+				"navigationBarTitleText": "知民愿·咨询反馈",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": true
+		
+			}
+		},
+		{
+			"path": "pages/jianyi/jianyi",
+			"style": {
+				"navigationBarTitleText": "听民意·建议选登",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": true
+		
+			}
+		},
+		{
+			"path": "pages/toushu/toushu",
+			"style": {
+				"navigationBarTitleText": "解民忧·投诉追踪",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": true
+		
+			}
+		},
+		{
+			"path": "pages/searchResult/searchResult",
+			"style": {
+				"navigationBarTitleText": "搜索详情",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": true
+		
+			}
+		},
+		{
+			"path": "pages/hotSearch/hotSearch",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"enablePullDownRefresh": true
+		
+			}
+		}
+			
+		
+	
+	],
+	"tabBar": {
+	        "color": "#FFFFFF",
+	        "selectedColor": "#FFC63E",
+	        "borderStyle": "white",
+	        "backgroundColor": "#175497",
+	        "list": [{
+	                "pagePath": "pages/home_page/home_page",
+	                "iconPath": "static/sy1@2x.png",
+	                "selectedIconPath": "static/sy@2x.png",
+	                "text": "首页"
+	            }, {
+	                "pagePath": "pages/my/my",
+	                "iconPath": "static/grzx@2x.png",
+	                "selectedIconPath": "static/grzx1@2x.png",
+	                "text": "我的"
+	            }
+	        ]
+	    }
+
+}

@@ -1,0 +1,1 @@
+<view><view data-event-opts="{{[['tap',[['smqd',['$event']]]]]}}" style="width:320rpx;height:70rpx;line-height:70rpx;text-align:center;margin:500rpx auto;border:1px solid #F1152C;font-size:34rpx;background:#ff8172;color:#fff;border-radius:4rpx;" bindtap="__e">点击签到</view></view>

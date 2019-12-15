@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "解民忧·投诉追踪",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "h-msearch": "/components/HMsearch"
+  }
+}

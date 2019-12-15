@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"option { padding: ",[0,30]," ",[0,30]," 0; background: #fff; }\n.",[1],"option wx-view { border-radius: ",[0,6],"; border: solid ",[0,1]," #ccc; font-size: ",[0,26],"; width: 33%; text-align: center; line-height: ",[0,50],"; }\n.",[1],"option_active { background: #f1152c; color: #fff; border: solid ",[0,1]," #F1152C !important; }\n",],undefined,{path:"./pages/manage_zz/zz_moren.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/manage_zz/zz_moren.wxml') } }));

@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "党员管理",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "查询",
+        "fontSize": "16"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

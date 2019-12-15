@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "党管月报",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "汇总下载",
+        "fontSize": "15"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

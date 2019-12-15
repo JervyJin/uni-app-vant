@@ -1,0 +1,2 @@
+setCssToHead(["wx-input { width: 100%; padding: 0 0 ",[0,5]," ",[0,15],"; border-bottom: solid ",[0,1]," #ccc; }\nwx-textarea { font-size: ",[0,26],"; }\n",],undefined,{path:"./pages/tab_wd/zzjg.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/zzjg.wxml') } }));

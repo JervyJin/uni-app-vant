@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#175497",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index"
+  }
+}

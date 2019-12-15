@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "星级评定",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

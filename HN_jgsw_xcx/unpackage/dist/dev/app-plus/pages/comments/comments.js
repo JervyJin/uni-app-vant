@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"wrap { background: #fff; padding: ",[0,30],"; }\n.",[1],"content_wrap { width: 100%; margin: 0 auto; border-radius: ",[0,6],"; border: solid ",[0,1]," #F5F5F5; }\nwx-textarea { padding: ",[0,20],"; background: #F5F5F5; width: 94%; }\n",],undefined,{path:"./pages/comments/comments.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/comments/comments.wxml') } }));

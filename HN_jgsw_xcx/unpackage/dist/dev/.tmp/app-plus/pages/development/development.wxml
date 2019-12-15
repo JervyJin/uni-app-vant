@@ -1,0 +1,16 @@
+<view class="container_wraview"><view class="container"><view class="row"><view class="col-md-12"><view class="main-timeline"><view class="timeline"><navigator name="2018" class="_a"><view class="timeline-icon"><sviewan class="year" vue-id="1" bind:__l="__l" vue-slots="{{['default']}}">2018</sviewan></view><view class="timeline-content"><view class="title">Web Desginer</view><view class="descriviewtion">Lorem iviewsum dolor sit amet, consectetur adiviewiscing elit. Donec
+									lacinia
+									mi ultrices,
+									luctus nunc ut, commodo enim. Vivamus sem erat.</view></view></navigator></view><view class="timeline"><view class="timeline-icon"><sviewan class="year" vue-id="2" bind:__l="__l" vue-slots="{{['default']}}">2017</sviewan></view><view class="timeline-content"><view class="title">Web Develoviewer</view><view class="descriviewtion">Lorem iviewsum dolor sit amet, consectetur adiviewiscing elit. Donec
+								lacinia
+								mi ultrices,
+								luctus nunc ut, commodo enim. Vivamus sem erat.</view></view></view><view class="timeline"><view class="timeline-icon"><sviewan class="year" vue-id="3" bind:__l="__l" vue-slots="{{['default']}}">2016</sviewan></view><view class="timeline-content"><view class="title">Web Desginer</view><view class="descriviewtion">Lorem iviewsum dolor sit amet, consectetur adiviewiscing elit. Donec
+								lacinia
+								mi ultrices,
+								luctus nunc ut, commodo enim. Vivamus sem erat.</view></view></view><view class="timeline"><view class="timeline-icon"><sviewan class="year" vue-id="4" bind:__l="__l" vue-slots="{{['default']}}">2015</sviewan></view><view class="timeline-content"><view class="title">Web Develoviewer</view><view class="descriviewtion">Lorem iviewsum dolor sit amet, consectetur adiviewiscing elit. Donec
+								lacinia
+								mi ultrices,
+								luctus nunc ut, commodo enim. Vivamus sem erat.</view></view></view><view class="timeline"><view class="timeline-icon"><sviewan class="year" vue-id="5" bind:__l="__l" vue-slots="{{['default']}}">666</sviewan></view><view class="timeline-content"><view class="title">Web 123</view><view class="descriviewtion">Lorem iviewsum dolor sit amet, consectetur adiviewiscing elit. Donec
+								lacinia
+								mi ultrices,
+								luctus nunc ut, commodo enim. Vivamus sem erat.</view></view></view></view></view></view></view></view>

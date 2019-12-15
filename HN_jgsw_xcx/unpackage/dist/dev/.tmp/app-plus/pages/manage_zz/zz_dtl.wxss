@@ -1,0 +1,28 @@
+
+.vw_wrap {
+	line-height: 65rpx;
+}
+.vw_wrap view:nth-child(1) {
+	color: #666;
+}
+.icon_wrap {
+	background: #fff;
+	text-align: center;
+	width: 33%;
+	padding: 40rpx 0;
+	border-bottom: solid 1rpx #F5F5F5;
+}
+.icon_wrap:nth-child(2),
+.icon_wrap:nth-child(5),
+.icon_wrap:nth-child(8) {
+	border-left: solid 1rpx #F5F5F5;
+	border-right: solid 1rpx #F5F5F5
+}
+.icon_wrap image {
+	width: 70rpx;
+	height: 70rpx;
+}
+.icon_wrap text {
+	font-size: 26rpx;
+}
+

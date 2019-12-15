@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"red { color: #F1152C; }\n",],undefined,{path:"./pages/tab_wd/wdpm.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/wdpm.wxml') } }));

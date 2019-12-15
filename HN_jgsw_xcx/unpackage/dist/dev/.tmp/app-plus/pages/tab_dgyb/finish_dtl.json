@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "完成情况",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

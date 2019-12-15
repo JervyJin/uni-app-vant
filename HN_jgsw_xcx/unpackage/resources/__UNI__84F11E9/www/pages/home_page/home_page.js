@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"img_wrap { width: 33%; text-align: center; font-size: ",[0,24],"; padding: ",[0,30]," 0; border-left:",[0,1]," solid #eee; border-bottom: ",[0,1]," solid #eee; }\n.",[1],"img_wrap wx-image { width: ",[0,140],"; height: ",[0,140],"; margin-bottom: ",[0,5],"; }\n",],undefined,{path:"./pages/home_page/home_page.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home_page/home_page.wxml') } }));

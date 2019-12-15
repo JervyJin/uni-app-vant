@@ -1,0 +1,11 @@
+
+text {
+	color: #999;
+}
+.btn_wrap {
+	width: 33%;
+	text-align: center;
+	border: solid 1rpx #F5F5F5;
+	line-height: 98rpx;
+}
+

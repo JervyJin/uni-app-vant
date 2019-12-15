@@ -1,0 +1,17 @@
+
+.wrap {
+	background: #fff;
+	padding: 30rpx;
+}
+.content_wrap {
+	width: 100%;
+	margin: 0 auto;
+	border-radius: 6rpx;
+	border: solid 1rpx #F5F5F5;
+}
+textarea {
+	padding: 20rpx;
+	background: #F5F5F5;
+	width: 94%;
+}
+

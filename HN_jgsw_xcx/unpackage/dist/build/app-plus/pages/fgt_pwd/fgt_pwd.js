@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"inp_wrap { padding: ",[0,40]," ",[0,30],"; border-bottom: solid ",[0,1]," #F5F5F5; }\n.",[1],"inp_wrap wx-text { width: ",[0,200],"; font-size: ",[0,32],"; }\n.",[1],"inp_wrap wx-input { font-size: ",[0,32],"; }\n.",[1],"yzm { width: ",[0,250],"; line-height: ",[0,50],"; text-align: center; background: #db0f2a; color: #fff; padding: ",[0,8],"; border-radius: 6px; }\n",],undefined,{path:"./pages/fgt_pwd/fgt_pwd.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/fgt_pwd/fgt_pwd.wxml') } }));

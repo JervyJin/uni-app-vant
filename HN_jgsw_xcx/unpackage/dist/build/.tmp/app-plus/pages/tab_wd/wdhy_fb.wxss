@@ -1,0 +1,10 @@
+
+textarea,
+input {
+	font-size: 28rpx;
+}
+.start {
+	color: #F1152C;
+	margin-right: 10rpx;
+}
+

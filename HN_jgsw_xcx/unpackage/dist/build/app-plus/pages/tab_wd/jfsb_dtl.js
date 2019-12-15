@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"start { color: #F1152C; margin-right: ",[0,10],"; }\nwx-input { border-bottom: solid ",[0,1]," #F5F5F5; }\n",],undefined,{path:"./pages/tab_wd/jfsb_dtl.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/jfsb_dtl.wxml') } }));

@@ -1,0 +1,13 @@
+
+.img_wrap {
+	width: 33%;
+	font-size: 28rpx;
+	text-align: center;
+	margin-bottom: 40rpx;
+}
+.img_wrap image {
+	margin-bottom: 15rpx;
+	width: 70rpx;
+	height: 70rpx;
+}
+

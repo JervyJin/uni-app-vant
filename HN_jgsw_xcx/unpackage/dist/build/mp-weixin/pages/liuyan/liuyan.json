@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "知民愿·咨询反馈",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "h-msearch": "/components/HMsearch"
+  }
+}

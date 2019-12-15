@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的党支部",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

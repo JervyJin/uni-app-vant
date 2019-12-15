@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "组织转移",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "添加",
+        "fontSize": "14"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

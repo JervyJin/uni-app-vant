@@ -1,0 +1,41 @@
+
+.del {
+	text-align: right;
+	color: #F1152C;
+	padding: 10rpx 0;
+}
+.option {
+	padding-top: 10rpx;
+}
+.option view {
+	font-size: 26rpx;
+	width: 50%;
+	text-align: center;
+	line-height: 60rpx;
+	font-weight: 550;
+}
+.option_active {
+	color: #F1152C;
+	border-bottom: solid 5rpx #F1152C;
+}
+.img_wrap image {
+	width: 180rpx;
+	height: 260rpx;
+	margin-right: 20rpx;
+}
+.btn_wrap {
+	border: solid 1rpx #F5F5F5;
+	width: 28%;
+	text-align: center;
+	padding: 6rpx 0;
+	margin: 40rpx 0 20rpx;
+	color: #999;
+}
+.btn_wrap image,
+.zan {
+	width: 40rpx;
+	height: 40rpx;
+	vertical-align: top;
+	margin-right: 10rpx;
+}
+

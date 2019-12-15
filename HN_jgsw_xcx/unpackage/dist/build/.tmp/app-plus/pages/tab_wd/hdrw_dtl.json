@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "活动任务详情",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

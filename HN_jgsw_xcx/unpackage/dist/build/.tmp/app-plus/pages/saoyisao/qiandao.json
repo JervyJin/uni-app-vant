@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "扫码签到",
+  "navigationBarBackgroundColor": "#F1152C",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

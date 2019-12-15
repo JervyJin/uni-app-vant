@@ -1,0 +1,17 @@
+
+.top_wrap {
+	margin-top: 20rpx;
+	background: #fff;
+	border-radius: 6rpx;
+	width: 40%;
+	padding: 20rpx 0 20rpx 30rpx;
+}
+.top_title {
+	margin-bottom: 10rpx;
+	font-size: 26rpx;
+}
+.top_num {
+	font-size: 50rpx;
+	font-weight: bold;
+}
+

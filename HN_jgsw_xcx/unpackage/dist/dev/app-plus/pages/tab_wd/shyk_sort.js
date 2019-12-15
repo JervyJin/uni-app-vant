@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"img_wrap { width: 50%; text-align: center; font-size: ",[0,24],"; padding: ",[0,60]," 0; border-right:",[0,1]," solid #eee; border-bottom:",[0,1]," solid #eee; -webkit-box-sizing: border-box; box-sizing: border-box; }\n.",[1],"img_wrap wx-image { width: ",[0,150],"; height: ",[0,150],"; margin-bottom: ",[0,10],"; }\n.",[1],"txt{font-size:",[0,30],";}\n",],undefined,{path:"./pages/tab_wd/shyk_sort.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_wd/shyk_sort.wxml') } }));

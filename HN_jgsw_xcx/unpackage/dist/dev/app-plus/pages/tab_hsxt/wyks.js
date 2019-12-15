@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"option { line-height: ",[0,70],"; font-size: ",[0,32],"; color: #666; }\n.",[1],"options { font-size: ",[0,30],"; padding: ",[0,8]," ",[0,20],"; color: #fff; border-radius: ",[0,6],"; margin: 0 ",[0,15],"; }\n",],undefined,{path:"./pages/tab_hsxt/wyks.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab_hsxt/wyks.wxml') } }));

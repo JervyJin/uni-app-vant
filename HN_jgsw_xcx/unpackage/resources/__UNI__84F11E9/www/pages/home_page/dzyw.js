@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"option { padding: ",[0,20],"; background: #fff; }\n.",[1],"option wx-view { -webkit-border-radius: ",[0,6],"; border-radius: ",[0,6],"; font-size: ",[0,26],"; text-align: center; line-height: ",[0,50],"; font-weight: 600; }\n.",[1],"option_active { color: #f1152c; }\n",],undefined,{path:"./pages/home_page/dzyw.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home_page/dzyw.wxml') } }));
